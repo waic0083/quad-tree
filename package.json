@@ -1,0 +1,19 @@
+{
+  "name": "quad-tree",
+  "version": "0.0.1",
+  "description": "quad tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waic0083/quad-tree.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waic0083/quad-tree/issues"
+  },
+  "homepage": "https://github.com/waic0083/quad-tree#readme"
+}

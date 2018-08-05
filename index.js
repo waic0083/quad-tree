@@ -1,0 +1,1 @@
+export {renderQuadTree} from './src/QuadTree';
